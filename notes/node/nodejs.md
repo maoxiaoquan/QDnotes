@@ -6,7 +6,6 @@
 * []()
 
 
-
 ## github（项目实例）
 * [N-blog（一个简明的教程）](https://github.com/nswbmw/N-blog)
 * [blog（一个博客项目）](https://github.com/mhbseal/blog)
@@ -36,20 +35,53 @@
     * [静态资源加载]()
         * [正在编写中......]()
     * [模版引擎]()
-        * [dasd]()
+        * [Node与Express开发](http://www.imooc.com/article/6923)
+        * [Express模版引擎hbs备忘](http://www.tuicool.com/articles/vENRNni)
+
 
 * [Koa (这是koa2系列)]()
     * [koa教程]()
-        * [dasd]()
-    * [路由]()
-        * [dasd]()
-    * [数据获取]()
-        * [dasd]()
-    * [静态资源加载]()
-        * [dasd]()
-    * [模版引擎]()
-        * [dasd]()
+        * [koa2（参考这篇文章，教程蛮详细的）](https://github.com/chenshenhai/koa2-note)
+        * [koa入门](https://www.liaoxuefeng.com/wiki/001434446689867b27157e896e74d51a89c25cc8b43bdb3000/001471087582981d6c0ea265bf241b59a04fa6f61d767f6000)
+        * [「新手向」koa2从起步到填坑](http://www.jianshu.com/p/6b816c609669)
+        * [《koa实战》](http://book.apebook.org/minghe/koa-action/hello-koa/what.html)
+        * [Koa 2实用入门](https://cnodejs.org/topic/5709959abc564eaf3c6a48c8)
+        * [koa2-login-example](https://github.com/ConanXie/koa2-login-example)
 
+    * [路由]()
+        * [正在编写中......]()
+    * [数据获取]()
+        * [正在编写中......]()
+    * [静态资源加载]()
+        * [正在编写中......]()
+    * [模版引擎]()
+        * [koa2 模板引擎模块 koa-views 的使用](https://segmentfault.com/q/1010000006854200)
+
+
+
+## mongoDB
+* []()
+* []()
+
+
+## node-mysql
+* []()
+* []()
+
+
+## node守护进程
+* []()
+* []()
+
+
+## socket
+* []()
+* []()
+
+
+## linux安装node
+* []()
+* []()
 
 
 
