@@ -18,6 +18,9 @@ QDnotes 这是前端的一个资料库，专注于前端领域
 * [Vue](https://github.com/maoxiaoquan/QDnotes/blob/master/notes/frame/vue/vue.md)
 * [Angular](https://github.com/maoxiaoquan/QDnotes/blob/master/notes/frame/angular/angular.md)
 
+## Node.js
+* [Node.js](https://github.com/maoxiaoquan/QDnotes/blob/master/notes/node/nodejs.md)
+
 
 ## 性能优化
 
@@ -26,9 +29,6 @@ QDnotes 这是前端的一个资料库，专注于前端领域
 
 
 ## 面试
-
-
-## 游戏
 
 
 ## 游戏引擎
