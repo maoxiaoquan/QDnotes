@@ -5,15 +5,6 @@ QDnotes 这是前端的一个资料库，专注于前端领域，便利于你的
 > 内容过多的，已放进二级目录,内容少的，就直接放在一级目录
 
  
-## 前端
-
-* [前端（pc）]()
-* [前端（mobile）]()
-* [JS]()
-* [CSS]()
-* [HTML5]()
-
-
 ## 框架
 * [React](https://github.com/maoxiaoquan/QDnotes/blob/master/notes/frame/react/react.md)
 * [Vue](https://github.com/maoxiaoquan/QDnotes/blob/master/notes/frame/vue/vue.md)
