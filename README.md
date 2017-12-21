@@ -41,7 +41,7 @@ QDnotes 这是前端的一个资料库，专注于前端领域，便利于你的
 * [PxCook(高效开发必备工具之一，用了就知道，量图)](http://www.fancynode.com.cn/pxcook)
 * [Cutterman(高效开发必备工具之一，切图)](http://www.cutterman.cn/zh)
 
-##依赖管理工具
+## 依赖管理工具
 * [Yarn](https://yarn.bootcss.com/)
 * [Npm（包含在node.js文件中的）](https://nodejs.org/zh-cn/)
 * [Cnpm](https://npm.taobao.org/)
