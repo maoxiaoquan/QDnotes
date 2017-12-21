@@ -8,7 +8,6 @@ QDnotes 这是前端的一个资料库，专注于前端领域，便利于你的
 ## 框架
 * [React](https://github.com/maoxiaoquan/QDnotes/blob/master/notes/frame/react/react.md)
 * [Vue](https://github.com/maoxiaoquan/QDnotes/blob/master/notes/frame/vue/vue.md)
-* [Angular](https://github.com/maoxiaoquan/QDnotes/blob/master/notes/frame/angular/angular.md)
 
 ## Node.js
 * [Node.js](https://github.com/maoxiaoquan/QDnotes/blob/master/notes/node/nodejs.md)
