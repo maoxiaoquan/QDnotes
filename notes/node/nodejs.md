@@ -2,8 +2,8 @@
 
 
 ## 综合教程
-* []()
-* []()
+* [慕课网（学习一些基础不错）](https://www.imooc.com/)
+* [汇智网（学习一些基础不错）](http://www.hubwiz.com/)
 
 
 ## github（项目实例）
@@ -17,7 +17,7 @@
 * [Node.js中文文档](http://nodejs.cn/api/)
 * [Node.js 手册查询-1-核心模块方法](https://cnodejs.org/topic/548e53f157fd3ae46b2334fd)
 * [Node.js 手册查询-4-Express 方法](https://cnodejs.org/topic/548e552757fd3ae46b233503)
-
+* [apebook 猿书 程序员的图书馆 ](http://apebook.org/lang/nodejs)
 
 
 ## 框架
@@ -30,15 +30,6 @@
         * [Express 4.x API 中文手册](http://www.expressjs.com.cn/4x/api.html)
         * [Nodejs初阶之express](http://www.cnblogs.com/Darren_code/p/node_express.html)
         * [Express 4.x API](https://www.zybuluo.com/XiangZhou/note/208532)
-
-    * 路由
-        * [正在编写中......]()
-
-    * 数据获取
-        * [正在编写中......]()
-
-    * 静态资源加载
-        * [正在编写中......]()
 
     * 模版引擎
         * [Node与Express开发](http://www.imooc.com/article/6923)
@@ -55,44 +46,11 @@
         * [Koa 2实用入门](https://cnodejs.org/topic/5709959abc564eaf3c6a48c8)
         * [koa2-login-example](https://github.com/ConanXie/koa2-login-example)
 
-    * 路由
-        * [正在编写中......]()
-
-    * 数据获取
-        * [正在编写中......]()
-
-    * 静态资源加载
-        * [正在编写中......]()
-
     * 模版引擎
         * [koa2 模板引擎模块 koa-views 的使用](https://segmentfault.com/q/1010000006854200)
 
 
 
-## mongoDB
-* []()
-* []()
+## 进程守护
 
-
-## node-mysql
-* []()
-* []()
-
-
-## node守护进程
-* []()
-* []()
-
-
-## socket
-* []()
-* []()
-
-
-## linux安装node
-* []()
-* []()
-
-
-
-
+* [PM2](https://www.tuicool.com/articles/Ab2yErj)
