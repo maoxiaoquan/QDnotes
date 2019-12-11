@@ -78,6 +78,11 @@ QDnotes 这是前端的一个资料库，专注于前端领域，便利于你的
       - [Graphql 官网](https://graphql.org/)
       - [Graphql 介绍](https://www.zhihu.com/question/264629587)
 
+## Flutter
+
+- 官网
+  - [Flutter 官网](https://flutterchina.club/)
+
 ## Node.js
 
 - [Node.js](https://github.com/maoxiaoquan/QDnotes/blob/master/notes/node/nodejs.md)
